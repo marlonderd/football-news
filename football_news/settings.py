@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "marlond-leanderd-footballnews.pbp.cs.ui.ac.id"]
 
-# Sesuai dengan url pws
+# Sesuai dengan url pws yang terdapat pada proyek football news
 CSRF_TRUSTED_ORIGINS = [
     "https://marlond-leanderd-footballnews.pbp.cs.ui.ac.id"
 ]
